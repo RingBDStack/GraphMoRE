@@ -47,7 +47,12 @@ bash scripts/NC/sage/photo.sh
 If you find this repository helpful, please consider citing the following paper. We welcome any discussions with [guozh@act.buaa.edu.cn](mailto:guozh@act.buaa.edu.cn).
 
 ```bibtex
-
+@article{guo2024graphmore,
+  title={GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts},
+  author={Guo, Zihao and Sun, Qingyun and Yuan, Haonan and Fu, Xingcheng and Zhou, Min and Gao, Yisen and Li, Jianxin},
+  journal={arXiv preprint arXiv:2412.11085},
+  year={2024}
+}
 ```
 
 ### Acknowledgements
