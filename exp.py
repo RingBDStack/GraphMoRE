@@ -40,7 +40,7 @@ class Exp:
         self.edge_index = edge_index
         self.neg_edge = neg_edge
         self.features = features
-        self.dis_shortest = cal_shortest_dis(self.edge_index, features.shape[0])
+        self.dis_shortest = cal_shortest_dis(self.edge_index)
 
         val_prop = 0.05
         test_prop = 0.1
