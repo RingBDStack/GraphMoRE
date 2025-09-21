@@ -44,7 +44,7 @@ bash scripts/NC/sage/photo.sh
 ```
 
 ### Citation
-If you find this repository helpful, please consider citing the following paper. We welcome any discussions with [guozh@act.buaa.edu.cn](mailto:guozh@act.buaa.edu.cn).
+If you find this repository helpful, please consider citing the following paper. We welcome any discussions with [guozh@buaa.edu.cn](mailto:guozh@buaa.edu.cn).
 
 ```bibtex
 @article{guo2024graphmore,
@@ -57,3 +57,4 @@ If you find this repository helpful, please consider citing the following paper.
 
 ### Acknowledgements
 Part of this code is inspired by [MotifRGC](https://github.com/RiemannGraph/MotifRGC), [ACE-HGNN](https://github.com/RingBDStack/ACE-HGNN) and [HGCN](https://github.com/HazyResearch/hgcn). We owe sincere thanks to their valuable efforts and contributions.
+
